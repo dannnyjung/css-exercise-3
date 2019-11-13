@@ -25,18 +25,17 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
-}
- width: 100%;
+  width: 100%;
   background-color: #DBD9DC;
 }
 
-h1 {
-      padding-top: 10px;
-      padding-bottom: 2.5px;
+.restaurant-list h1 {
+      Padding-top: 10px;
+      Padding-bottom: 2.5px;
       font-size: 20px
 }
 
-h3 {
+.restaurant-list h3 {
       padding-top: 5px;
       font-size: 16px;
 }
@@ -68,5 +67,5 @@ h3 {
 
 .location h3 {
         font-size: 1em;
-        Font-weight: 650;
+        font-weight: 650;
 }
