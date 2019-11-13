@@ -50,10 +50,12 @@ nav {
 }
 
 .arrow {
+  width: 10%;
+  padding-right: 10%;
   display: inline-block;
   float: right;
-  width: 5%;
-  martin-top: 25px;
+  overflow: hidden;
+  vertical-align: center;
 }
 
 .content {
